@@ -11,19 +11,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
 </p>
 
-## 🚀 Features
-
-- 📝 MDX for docs;
-- 🛣 Yaml-based sidebar navigation;
-- 📱 Responsive and mobile friendly;
-- 🖥 Code highlighting with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) support;
-- 🥇 SEO (Sitemap, schema.org data, Open Graph and Twitter tags).
-- 📈 Google Analytics support;
-- 📄 Custom docs schema;
-- 🖱 Table of Contents;
-- ⚡️ Offline Support & WebApp Manifest;
-- and much more 🔥
-
 ## ⚡️ Getting started
 
 ### Local Development
