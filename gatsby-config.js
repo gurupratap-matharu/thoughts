@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `Thoughts`,
     siteTitleShort: `My thoughts`,
     siteDescription: `My personal blog where I write my thoughts`,
-    siteUrl: `https://rocketdocs.netlify.com`,
+    siteUrl: `https://gurupratap-matharu-thoughts.netlify.app`,
     siteAuthor: `@gurupratap-matharu`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
@@ -17,7 +17,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
+        githubUrl: `https://github.com/gurupratap-matharu/thoughts`,
         baseDir: `examples/gatsby-theme-docs`,
       },
     },
@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.com`,
+        siteUrl: `https://gurupratap-matharu-thoughts.netlify.app`,
       },
     },
     `gatsby-plugin-offline`,
